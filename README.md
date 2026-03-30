@@ -26,12 +26,5 @@ Sou um entusiasta de tecnologia e desenvolvimento de jogos. Atualmente, estou fo
   </a>
 </p>
 
-### 📊 Minhas Atividades
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nathan-coder876&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-coder876&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
 ---
-
 *“Programação é a arte de criar soluções.”*
