@@ -23,7 +23,7 @@ Sou um programador de automação. Entusiasta de tecnologia e desenvolvimento de
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,java,python,gulp,github,git,windows,discord,linkedin" />
+    <img src="https://skillicons.dev/icons?i=vscode,java,python,gulp,github,git,redhat,windows,discord,linkedin" />
   </a>
 </p>
 
