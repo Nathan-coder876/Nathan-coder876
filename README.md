@@ -1,7 +1,6 @@
 # 𝕆𝕝á, 𝕖𝕦 𝕤𝕠𝕦 𝕠 ℕ𝕒𝕥𝕙𝕒𝕟!
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Drink+A+Soda+And+Let`s+Code;Let+Me+Analyze+This+For+You)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=A52A2A&lines=Drink+A+Soda+And+Let`s+Code!;Let+Me+Analyze+That+For+You!;Always+Learning!)](https://git.io/typing-svg)
 <div align="left">
   <a href="LINK_PARA_SUA_DASHBOARD_OU_SOBRE">
     <img src="https://img.shields.io/badge/Foco-Análise%20de%20Dados-blue?style=for-the-badge&logo=data-analysis&logoColor=white" alt="Foco">
