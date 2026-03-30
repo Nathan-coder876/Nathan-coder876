@@ -1,9 +1,13 @@
 # 👋 Olá, eu sou o Nathan!
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Foco-Minecraft%20Modding-green?style=for-the-badge&logo=minecraft" />
-  <img src="https://img.shields.io/badge/Aprendendo-Java-orange?style=for-the-badge&logo=oracle" />
-</p>
+<div align="left">
+  <a href="LINK_PARA_SUA_DASHBOARD_OU_SOBRE">
+    <img src="https://img.shields.io/badge/Foco-Análise%20de%20Dados-blue?style=for-the-badge&logo=data-analysis&logoColor=white" alt="Foco">
+  </a>
+  <a href="https://github.com/Nathan-coder876?tab=repositories">
+    <img src="https://img.shields.io/badge/Projetos-Repositórios-green?style=for-the-badge&logo=github&logoColor=white" alt="Projetos">
+  </a>
+</div>
 
 ### 🚀 Sobre Mim
 Sou um entusiasta de tecnologia e desenvolvimento de jogos. Atualmente, estou focado em aprender **Java** através da criação de mods para Minecraft, explorando como transformar ideias em mecânicas reais dentro do jogo.
