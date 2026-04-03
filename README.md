@@ -11,7 +11,7 @@
 </div>
 
 ### 🚀 Sobre Mim
-Sou um programador de automação. Entusiasta de tecnologia e desenvolvimento de jogos. Atualmente, estou focado em construir diferentes projetos, explorando como transformar ideias em mecânicas reais. Também estou aperfeiçoando minhas habilidades em **Ánalise de Dados**, elaborando diversos projetos sobre **Automação** e **Data Mining**.
+Sou um programador de automação. Entusiasta de tecnologia e desenvolvimento de jogos. Atualmente, estou focado em construir diferentes projetos, explorando como transformar ideias em mecânicas reais. Também estou aperfeiçoando minhas habilidades em **Egenharia de Dados**, elaborando diversos projetos sobre **Automação** e **Data Mining**.
 
 ---
 
