@@ -3,10 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=A52A2A&lines=Drink+A+Soda+And+Let`s+Code+🥤🕶️!;Let+Me+Analyze+That+For+You+💻📈!;Always+Learning+🧠🚀!)](https://git.io/typing-svg)
 <div align="left">
   <a href="LINK_PARA_SUA_DASHBOARD_OU_SOBRE">
-    <img src="https://img.shields.io/badge/Foco-Análise%20de%20Dados-blue?style=for-the-badge&logo=data-analysis&logoColor=white" alt="Foco">
+  <a href="LINK_PARA_SEU_PROJETO_OU_SOBRE">
+  <img src="https://img.shields.io/badge/Foco-Engenharia%20de%20Dados-red?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Foco">
+</a>
   </a>
   <a href="https://github.com/Nathan-coder876?tab=repositories">
-    <img src="https://img.shields.io/badge/Projetos-Repositórios-green?style=for-the-badge&logo=github&logoColor=white" alt="Projetos">
+    <img src="https://img.shields.io/badge/Projetos-Repositórios-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Projetos">
   </a>
 </div>
 
