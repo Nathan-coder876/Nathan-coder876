@@ -17,10 +17,10 @@ Sou um programador. Entusiasta de tecnologia, cibersegurança, engenharia de dad
 ---
 ### 🎓 Certificados e Cursos
 
-*   📊 **Minicurso de SQL** – Experiun | [Visualizar Certificado](URL_DO_GOOGLE_DRIVE_AQUI)
-*   🤖 **Inteligência Artificial** – Hashtag | [Visualizar Certificado](URL_DO_GOOGLE_DRIVE_AQUI)
-*   🖥️ **Sistemas Operacionais** – Fundação Bradesco | [Visualizar Certificado](URL_DO_GOOGLE_DRIVE_AQUI)
-*   📂 **SharePoint** – Escola Virtual | [Visualizar Certificado](URL_DO_GOOGLE_DRIVE_AQUI)
+*   📊 **Minicurso de SQL** – Experiun | [Visualizar Certificado](https://drive.google.com/file/d/1ZFVuhfvcZlYqhxjORSn7YeGmhupoNNFc/view?usp=sharing)
+*   🤖 **Inteligência Artificial** – Hashtag | [Visualizar Certificado](https://drive.google.com/file/d/1Q8HMQSDK-OnMdrXOc-tqyDUena6fvnXN/view?usp=sharing)
+*   🖥️ **Sistemas Operacionais** – Fundação Bradesco | [Visualizar Certificado](https://drive.google.com/file/d/1g4BgUHJZhf0j1O5fJ2GzHiJwoVPDiyXK/view?usp=sharing)
+*   📂 **SharePoint** – Escola Virtual | [Visualizar Certificado](https://drive.google.com/file/d/1oZQsNtE6PmSf06QTON-2xfBvFJFuPeSW/view?usp=sharing)
 ---
 
 ### 📊 Projeto em Destaque
