@@ -17,8 +17,9 @@ Sou um programador. Entusiasta de tecnologia, cibersegurança, engenharia de dad
 
 ---
 
-### 🎮 Projeto em Destaque
-**[EverFizz Mod](https://github.com/Nathan-coder876/Games-Projects-)** Meu primeiro mod oficial! Ele adiciona novos minérios e texturas (como o EverFizz) ao Minecraft usando o Forge.
+### 📊 Projeto em Destaque
+
+**[Dashboard de Análise de Dados - Power BI](LINK_DO_SEU_PROJETO_AQUI)** — Dashboard interativo focado em métricas estratégicas e visualização de dados dinâmica.)** — Dashboard interativo focado em métricas estratégicas e visualização de dados dinâmica.
 
 ---
 
