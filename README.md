@@ -25,7 +25,7 @@ Sou um programador. Entusiasta de tecnologia, cibersegurança, engenharia de dad
 
 ### 📊 Projeto em Destaque
 
-**[Dashboard de Análise de Dados - Power BI](https://github.com/Nathan-coder876/Relat-rio-Em-Power-BI)** — Dashboard interativo focado em métricas estratégicas e visualização de dados dinâmica.)** — Dashboard interativo focado em métricas estratégicas e visualização de dados dinâmica.
+**[Dashboard de Análise de Dados - Power BI](https://github.com/Nathan-coder876/Relat-rio-Em-Power-BI)** — Dashboard interativo focado em métricas estratégicas e visualização de dados dinâmica. — Dashboard interativo focado em métricas estratégicas e visualização de dados dinâmica.
 
 ---
 
