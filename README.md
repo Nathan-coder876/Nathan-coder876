@@ -13,8 +13,7 @@
 </div>
 
 ### 🚀 Sobre Mim
-Olá 🙂 
-Sou um programador. Entusiasta de tecnologia, cibersegurança, engenharia de dados, automação e desenvolvimento de softwares. Atualmente, estou focado em construir diferentes projetos, explorando como transformar ideias em mecânicas reais. Também estou aperfeiçoando minhas habilidades em **Egenharia de Dados** e **cibersegurança**, elaborando diversos projetos sobre **Automação**, **Data Mining**, **Cibersegurança**, etc.
+Olá. Sou um programador entusiasta de tecnologia, cibersegurança, engenharia de dados, automação e desenvolvimento de softwares. Atualmente, estou focado em construir diferentes projetos, explorando como transformar ideias em mecânicas reais. Também estou aperfeiçoando minhas habilidades em **Egenharia de Dados** e **cibersegurança**, elaborando diversos projetos sobre **Automação**, **Data Mining**, **Cibersegurança**, etc.
 ---
 ### 🎓 Certificados e Cursos
 
