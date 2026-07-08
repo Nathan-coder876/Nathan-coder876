@@ -4,11 +4,14 @@
 <div align="left">
   <a href="LINK_PARA_SUA_DASHBOARD_OU_SOBRE">
   <a href="LINK_PARA_SEU_PROJETO_OU_SOBRE">
-  <img src="https://img.shields.io/badge/Foco-Engenharia%20de%20Dados-red?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Foco">
+  <img src="https://img.shields.io/badge/Foco-Programaçãos-red?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Foco">
 </a>
   </a>
   <a href="https://github.com/Nathan-coder876?tab=repositories">
     <img src="https://img.shields.io/badge/Projetos-Repositórios-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Projetos">
+  </a>
+   <a href="linkedin.com/in/natanael-oliveira-2bab6b281">
+    <img src="https://img.shields.io/badge/Perfil-LinkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=white" alt="Projetos">
   </a>
 </div>
 
